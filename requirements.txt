@@ -1,7 +1,7 @@
 docx2txt
 nltk
 openai
-pinecone
+pinecone-client
 PyPDF2
 qdrant_client
 scikit_learn
